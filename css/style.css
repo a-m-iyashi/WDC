@@ -797,7 +797,7 @@ object {
   display: flex;
   position: relative;
   height: 700px;
-  background-image: url(../../../img/mv.png);
+  background-image: url(../img/mv.png);
   background-repeat: no-repeat;
   background-position: right -34px bottom;
   background-size: 560px 736px;
@@ -836,7 +836,7 @@ object {
   bottom: -74px;
   -webkit-transform: rotate(-13deg);
           transform: rotate(-13deg);
-  background-image: url(../../../img/teiji-de-kaerumon.svg);
+  background-image: url(../img/teiji-de-kaerumon.svg);
   background-size: contain;
 }
 
@@ -877,7 +877,7 @@ object {
 
 .p-registor {
   width: 100%;
-  background-image: url(../../../img/bg.jpg);
+  background-image: url(../img/bg.jpg);
   background-repeat: repeat;
   padding-top: 93px;
 }
