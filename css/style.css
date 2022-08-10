@@ -1024,8 +1024,8 @@ object {
     margin-bottom: 40px;
   }
   .l-wrapper {
-    margin: 0 20px;
-    padding: 0 40px;
+    margin: 0 15px;
+    padding: 0;
   }
   .c-btn {
     width: 180px;
@@ -1098,7 +1098,10 @@ object {
     margin-bottom: 20px;
   }
   .p-about__txt {
-    font-size: 1.6rem;
+    font-size: 1.4rem;
+  }
+  .p-about__table th {
+    width: 70px;
   }
   .p-about__btn {
     text-align: center;
